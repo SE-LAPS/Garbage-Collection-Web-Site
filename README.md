@@ -1,5 +1,5 @@
 # Garbage-Collection-Web-Site
-Garbage Collection Web-Site Using C sharp .net framework
+<h2>Garbage Collection Web-Site Using C sharp .net framework</h2>
 
 <h4>Home</h4>
 ![1](https://github.com/SE-LAPS/Garbage-Collection-Web-Site/assets/87580847/bbbd4dd5-ab15-4e34-8754-3ac3595a3244)
